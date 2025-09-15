@@ -1,3 +1,6 @@
 /* Add CSS Styling */
 
-p {background-color: #f58484; font-family: "Verdana", "DejaVu Sans", "sans-serif";}
+.red,
+#font {background-color: #f58484; font-family: "Verdana", "DejaVu Sans", "sans-serif";}
+
+#font {font-size: 24px;}
